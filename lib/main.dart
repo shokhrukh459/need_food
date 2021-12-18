@@ -21,7 +21,7 @@ void main(){
              FirstPage(),
              SecondPage(),
              ThirdPage(),
-             SignUp()
+             SignUp(),
            ],
          ),
        ),
